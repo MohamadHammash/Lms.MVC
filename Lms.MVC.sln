@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.UI", "Lms.UI\Lms.UI.csproj", "{5F6307FF-5360-4CBE-B9BC-B94C3C320925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Data", "Lms.Data\Lms.Data.csproj", "{88DA5559-980B-4DC8-AAB8-668A52C479F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Core", "Lms.Core\Lms.Core.csproj", "{FE5B8F2E-8B8D-4EAF-8A9F-6D388AEFDCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6307FF-5360-4CBE-B9BC-B94C3C320925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6307FF-5360-4CBE-B9BC-B94C3C320925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6307FF-5360-4CBE-B9BC-B94C3C320925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6307FF-5360-4CBE-B9BC-B94C3C320925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DA5559-980B-4DC8-AAB8-668A52C479F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DA5559-980B-4DC8-AAB8-668A52C479F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DA5559-980B-4DC8-AAB8-668A52C479F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DA5559-980B-4DC8-AAB8-668A52C479F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5B8F2E-8B8D-4EAF-8A9F-6D388AEFDCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5B8F2E-8B8D-4EAF-8A9F-6D388AEFDCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5B8F2E-8B8D-4EAF-8A9F-6D388AEFDCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5B8F2E-8B8D-4EAF-8A9F-6D388AEFDCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC31B4D-59FA-4655-B02C-136A8B1C0048}
+	EndGlobalSection
+EndGlobal
